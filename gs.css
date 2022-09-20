@@ -1,25 +1,29 @@
-#speech{
+.speech{
     font:icon;
     font-size: medium;
     color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
-#song{
-    font:icon;
+.song{
+    font:italic;
+    font-style: italic;
     font-size: medium;
     color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-h4{
+.name{
     font: icon;
     font-size: medium;
     color: black;
 }
-#direction{
+.direction{
     font:icon;
     font-size: medium;
+    font-style: oblique;
     color: black;
     background-color: lightgray;
 }
-#direction:hover{
+.direction:hover{
     color: red;
     background-color: lightskyblue;
 
@@ -38,10 +42,4 @@ h4{
 }
 .MER{
     color: mediumseagreen;
-}
-.speech{
-    font-family:Georgia, 'Times New Roman', Times, serif;
-}
-.song{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
