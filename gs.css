@@ -1,0 +1,47 @@
+#speech{
+    font:icon;
+    font-size: medium;
+    color: black;
+}
+#song{
+    font:icon;
+    font-size: medium;
+    color: black;
+}
+h4{
+    font: icon;
+    font-size: medium;
+    color: black;
+}
+#direction{
+    font:icon;
+    font-size: medium;
+    color: black;
+    background-color: lightgray;
+}
+#direction:hover{
+    color: red;
+    background-color: lightskyblue;
+
+}
+.CHO{
+    color: coral;
+}
+.SOLO{
+    color: slateblue;
+}
+.DIA{
+    color: darkmagenta;
+}
+.AP{
+    color: aqua;
+}
+.MER{
+    color: mediumseagreen;
+}
+.speech{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.song{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
