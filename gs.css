@@ -50,6 +50,6 @@ table, th, td {
     color: black;
     text-align: left;
     padding: 10px;
-    margin: auto;
+    margin:auto;
 }
 tr:nth-child(even) {background-color: #f2f2f2;}
