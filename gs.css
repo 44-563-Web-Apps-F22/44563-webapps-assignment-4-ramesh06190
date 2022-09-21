@@ -49,8 +49,10 @@ table, th, td {
     border: 1px solid;
     color: black;
     text-align: left;
-    padding: 10px;
+    padding: 4px;
     margin:auto;
+    border-spacing: 2px;
+    outline: solid 4px coral;
 }
 tr:nth-child(even) {background-color: #f2f2f2;}
 .CHO:hover, .DIA:hover, .MER:hover,.AP:hover,.SOLO:hover{
