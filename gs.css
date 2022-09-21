@@ -68,8 +68,8 @@ ul.navbar-horizontal {
 }
 ul.navbar-horizontal li {
     float:left; 
-    color:blue;
-    background-color:white;
+    color: whitesmoke;
+    background-color:blue;
 }
     ul.navbar-horizontal a {
     display:block;
