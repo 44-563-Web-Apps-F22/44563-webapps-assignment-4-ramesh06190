@@ -43,3 +43,13 @@
 .MER{
     color: mediumseagreen;
 }
+table, th, td {
+    
+    font: bold;
+    border: 1px solid;
+    color: black;
+    text-align: left;
+    padding: 10px;
+    margin: auto;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
