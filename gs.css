@@ -53,7 +53,7 @@ table, th, td {
     padding: 4px;
     margin:auto;
     border-spacing: 2px;
-    outline: solid 4px coral;
+    outline: solid 2px gainsboro;
     
 }
 tr:nth-child(even) {background-color: #f2f2f2;}
@@ -67,9 +67,11 @@ ul.navbar-horizontal {
     padding: 0;
 }
 ul.navbar-horizontal li {
-    float:left; 
-    color: whitesmoke;
-    background-color:blue;
+    float:left;
+    color: blue;
+    background-color:greenyellow;
+    font-weight: 300;
+    border: 2px;
 }
     ul.navbar-horizontal a {
     display:block;
